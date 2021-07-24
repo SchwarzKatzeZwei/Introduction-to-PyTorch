@@ -19,7 +19,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 01.[Introduction](01.Introduction.md)
 
-02.[What are Tensors?]()
+02.[What are Tensors?](02.What-are-Tensors.ipynb)
 
 03.[Load data with PyTorch Datasets and DataLoaders]()
 
