@@ -21,7 +21,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 02.[What are Tensors?](02.What-are-Tensors.ipynb)
 
-03.[Load data with PyTorch Datasets and DataLoaders]()
+03.[Load data with PyTorch Datasets and DataLoaders](03.Load-data-with-PyTorch-Datasets-and-Dataloaders.ipynb)
 
 04.[Transform the data]()
 
