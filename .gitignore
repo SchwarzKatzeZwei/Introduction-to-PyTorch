@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Original Add
+.DS_Store
+*.pt
+*.gz
+*ubyte

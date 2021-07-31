@@ -19,11 +19,11 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 01.[Introduction](01.Introduction.md)
 
-02.[What are Tensors?](02.What-are-Tensors.ipynb)
+02.[What are Tensors?](02.What_are_Tensors.ipynb)
 
-03.[Load data with PyTorch Datasets and DataLoaders](03.Load-data-with-PyTorch-Datasets-and-Dataloaders.ipynb)
+03.[Load data with PyTorch Datasets and DataLoaders](03.Load_data_with_PyTorch_Datasets_and_Dataloaders.ipynb)
 
-04.[Transform the data]()
+04.[Transform the data](04.Transform_the_data.ipynb)
 
 05.[Building the model layers]()
 
@@ -36,3 +36,8 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 09.[The full model building process]()
 
 10.[Summary]()
+
+## 翻訳元
+
+MS Learn Introduction to PyTorch
+<https://docs.microsoft.com/ja-jp/learn/modules/intro-machine-learning-pytorch/>
