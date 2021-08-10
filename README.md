@@ -27,7 +27,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 05.[Building the model layers](05.Building_the_model_layers.ipynb)
 
-06.[Automatic differentiation]()
+06.[Automatic differentiation](06.Automatic_differentiation.ipynb)
 
 07.[Learn about the optimization loop]()
 
