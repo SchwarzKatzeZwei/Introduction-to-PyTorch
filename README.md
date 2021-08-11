@@ -29,7 +29,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 06.[Automatic differentiation](06.Automatic_differentiation.ipynb)
 
-07.[Learn about the optimization loop]()
+07.[Learn about the optimization loop](07.Learn_about_the_optimization_loop.ipynb)
 
 08.[Save, load, and run model predictions]()
 
