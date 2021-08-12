@@ -31,7 +31,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 07.[Learn about the optimization loop](07.Learn_about_the_optimization_loop.ipynb)
 
-08.[Save, load, and run model predictions]()
+08.[Save, load, and run model predictions](08.Save_load_and_run_model_predictions.ipynb)
 
 09.[The full model building process]()
 
