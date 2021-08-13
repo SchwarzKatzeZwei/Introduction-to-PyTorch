@@ -33,7 +33,7 @@ PyTorchを使って機械学習モデルを構築する方法をご紹介しま�
 
 08.[Save, load, and run model predictions](08.Save_load_and_run_model_predictions.ipynb)
 
-09.[The full model building process]()
+09.[The full model building process](09.The_full_model_building_process.ipynb)
 
 10.[Summary]()
 
