@@ -18,28 +18,28 @@
 
 ## このモジュールはこれらのラーニング パスに含まれています
 
-01.[Introduction](Introduction.md)
+01.[Introduction](01.Introduction.md)
 序章
 
-02.[Introduction to processing image data](Introduction_to_processing_image_data.ipynb)
+02.[Introduction to processing image data](02.Introduction_to_processing_image_data.ipynb)
 画像データの処理方法の紹介
 
-03.[Training a simple dense neural network](Training_a_simple_dense_neural_network.ipynb)
+03.[Training a simple dense neural network](03.Training_a_simple_dense_neural_network.ipynb)
 シンプルな高密度ニューラルネットワークの学習
 
-04.[Training a multi-Layered perceptron](Training_a_multi-Layered_perceptron.ipynb)
+04.[Training a multi-Layered perceptron](04.Training_a_multi-Layered_perceptron.ipynb)
 階層型パーセプトロンの学習
 
-05.[Use a convolutional neural network](Use_a_convolutional_neural_network.ipynb)
+05.[Use a convolutional neural network](05.Use_a_convolutional_neural_network.ipynb)
 畳み込みニューラルネットワークの使用
 
-06.[Use a pre-trained network with transfer learning](Use_a_pre-trained_network_with_transfer_learning.ipynb)
+06.[Use a pre-trained network with transfer learning](06.Use_a_pre-trained_network_with_transfer_learning.ipynb)
 転移学習で事前に学習したネットワークを使用
 
-07.[Solving vision problems with MobileNet](Solving_vision_problems_with_MobileNet.ipynb)
+07.[Solving vision problems with MobileNet](07.Solving_vision_problems_with_MobileNet.ipynb)
 MobileNetで視覚問題を解決する
 
-08.[Summary](Summary.md)
+08.[Summary](08.Summary.md)
 総括
 
 ## 翻訳元
